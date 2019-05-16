@@ -2,7 +2,7 @@
 
 const config = {};
 
-config.networkNodeListJSONurl = 'https://raw.githubusercontent.com/LeoStehlik/derogold-nodes-json/master/derogold-nodes.json;
+config.networkNodeListJSONurl = 'https://raw.githubusercontent.com/LeoStehlik/derogold-nodes-json/master/derogold-nodes.json';
 
 config.serverHost = '0.0.0.0';
 
