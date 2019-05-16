@@ -1,9 +1,9 @@
-# shell-map
+# DeroGold-map
 
 ## Setup
 
 ```
-git clone https://github.com/DiscoTim/shell-map.git
+git clone https://github.com/LeoStehlik/derogold-map.git
 cd shell-map
 npm install
 node ./node_modules/geoip-lite/scripts/updatedb.js
