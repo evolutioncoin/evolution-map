@@ -324,3 +324,106 @@
 2019-10-31 18:35:41 Task failed: 95.33.154.54:6969 Error: Error updating node {"elapsed":51}
 2019-10-31 18:35:41 Task failed: 92.117.50.158:6969 Error: Error updating node {"elapsed":65}
 2019-10-31 18:35:41 Task failed: 46.0.205.147:6969 Error: Error updating node {"elapsed":80}
+2019-10-31 18:36:19 Task failed: 195.154.81.135:6969 Error: Error updating node {"elapsed":45024}
+2019-10-31 18:36:19 Task failed: 68.117.233.134:6969 Error: Error updating node {"elapsed":45024}
+2019-10-31 18:36:19 Task failed: 5.189.134.215:6969 Error: Error updating node {"elapsed":45025}
+2019-10-31 18:36:19 Task failed: 105.101.57.65:6969 Error: Error updating node {"elapsed":45025}
+2019-10-31 18:36:19 Task failed: 5.9.65.105:6969 Error: Error updating node {"elapsed":45026}
+2019-10-31 18:36:19 Task failed: 92.117.32.120:6969 Error: Error updating node {"elapsed":45026}
+2019-10-31 18:36:19 Task failed: 92.117.62.184:6969 Error: Error updating node {"elapsed":45026}
+2019-10-31 18:36:19 Task failed: 47.25.132.181:6969 Error: Error updating node {"elapsed":45026}
+2019-10-31 18:36:19 Task failed: 75.185.83.54:6969 Error: Error updating node {"elapsed":45026}
+2019-10-31 18:36:19 Task failed: 105.101.130.128:6969 Error: Error updating node {"elapsed":45026}
+2019-10-31 18:36:19 Task failed: 62.210.250.94:6969 Error: Error updating node {"elapsed":45026}
+2019-10-31 18:36:22 Task failed: 58.172.103.16:6969 Error: Error updating node {"elapsed":45023}
+2019-10-31 18:36:22 Task failed: 163.172.102.112:6969 Error: Error updating node {"elapsed":45023}
+2019-10-31 18:36:22 Task failed: 78.87.177.255:6969 Error: Error updating node {"elapsed":45024}
+2019-10-31 18:36:22 Task failed: 92.117.50.146:6969 Error: Error updating node {"elapsed":45023}
+2019-10-31 18:36:22 Task failed: 105.99.6.198:6969 Error: Error updating node {"elapsed":45023}
+2019-10-31 18:36:22 Task failed: 105.101.207.121:6969 Error: Error updating node {"elapsed":45022}
+2019-10-31 18:36:22 Task failed: 92.117.37.98:6969 Error: Error updating node {"elapsed":45022}
+2019-10-31 18:36:22 Task failed: 105.101.81.136:6969 Error: Error updating node {"elapsed":45022}
+2019-10-31 18:36:22 Queue is empty
+2019-10-31 18:36:22 Queue is drained
+2019-10-31 18:36:22 Reseeding queue in 60 seconds
+2019-10-31 18:37:22 Updated network node list. Total: 3
+2019-10-31 18:37:22 Removing stale nodes: 0 []
+2019-10-31 18:37:22 Node count: 44
+2019-10-31 18:37:22 Node count: 44
+2019-10-31 18:37:22 Node count: 44
+2019-10-31 18:37:22 Task failed: 77.68.90.230:6969 Error: Error updating node {"elapsed":19}
+2019-10-31 18:37:22 Task Finished: 91.239.237.54:6969 {"elapsed":215}
+2019-10-31 18:37:22 Queue Stats: {"successRate":0.12222222222222223,"peak":34,"average":19705.12222222222,"total":90}
+2019-10-31 18:37:22 Found 22 nodes
+2019-10-31 18:37:22 Node count: 44
+2019-10-31 18:37:22 Node count: 44
+2019-10-31 18:37:22 Node count: 44
+2019-10-31 18:37:22 Node count: 44
+2019-10-31 18:37:22 Node count: 44
+2019-10-31 18:37:22 Node count: 44
+2019-10-31 18:37:22 Node count: 44
+2019-10-31 18:37:22 Node count: 44
+2019-10-31 18:37:22 Node count: 44
+2019-10-31 18:37:22 Node count: 44
+2019-10-31 18:37:22 Node count: 44
+2019-10-31 18:37:22 Node count: 44
+2019-10-31 18:37:22 Node count: 44
+2019-10-31 18:37:22 Node count: 44
+2019-10-31 18:37:22 Node count: 44
+2019-10-31 18:37:22 Node count: 44
+2019-10-31 18:37:22 Node count: 44
+2019-10-31 18:37:22 Node count: 44
+2019-10-31 18:37:22 Node count: 44
+2019-10-31 18:37:22 Node count: 44
+2019-10-31 18:37:22 Node count: 44
+2019-10-31 18:37:22 Task failed: 0.0.0.0:6969 Error: Error updating node {"elapsed":28}
+2019-10-31 18:37:23 Task failed: 91.39.206.167:6969 Error: Error updating node {"elapsed":49}
+2019-10-31 18:37:23 Task failed: 85.214.193.246:6969 Error: Error updating node {"elapsed":58}
+2019-10-31 18:37:23 Task failed: 85.214.234.62:6969 Error: Error updating node {"elapsed":59}
+2019-10-31 18:37:23 Task failed: 92.117.57.250:6969 Error: Error updating node {"elapsed":81}
+2019-10-31 18:37:23 Task failed: 92.117.62.226:6969 Error: Error updating node {"elapsed":82}
+2019-10-31 18:37:23 Task Finished: 51.15.117.200:6969 {"elapsed":122}
+2019-10-31 18:37:23 Queue Stats: {"successRate":0.12371134020618557,"peak":34,"average":18288.0412371134,"total":97}
+2019-10-31 18:37:23 Found 44 nodes
+2019-10-31 18:37:23 Node count: 44
+2019-10-31 18:37:23 Node count: 44
+2019-10-31 18:37:23 Node count: 44
+2019-10-31 18:37:23 Node count: 44
+2019-10-31 18:37:23 Node count: 44
+2019-10-31 18:37:23 Task Finished: 5.172.219.174:6969 {"elapsed":129}
+2019-10-31 18:37:23 Queue Stats: {"successRate":0.13265306122448983,"peak":35,"average":18102.744897959183,"total":98}
+2019-10-31 18:37:23 Found 17 nodes
+2019-10-31 18:37:23 Node count: 44
+2019-10-31 18:37:23 Node count: 44
+2019-10-31 18:37:23 Node count: 44
+2019-10-31 18:37:23 Node count: 44
+2019-10-31 18:37:23 Node count: 44
+2019-10-31 18:37:23 Node count: 44
+2019-10-31 18:37:23 Node count: 44
+2019-10-31 18:37:23 Node count: 44
+2019-10-31 18:37:23 Node count: 44
+2019-10-31 18:37:23 Node count: 44
+2019-10-31 18:37:23 Node count: 44
+2019-10-31 18:37:23 Node count: 44
+2019-10-31 18:37:23 Node count: 44
+2019-10-31 18:37:23 Node count: 44
+2019-10-31 18:37:23 Node count: 44
+2019-10-31 18:37:23 Task failed: 195.154.83.28:6969 Error: Error updating node {"elapsed":35}
+2019-10-31 18:37:23 Task failed: 91.96.50.106:6969 Error: Error updating node {"elapsed":52}
+2019-10-31 18:37:23 Task Finished: 46.214.70.196:6969 {"elapsed":399}
+2019-10-31 18:37:23 Queue Stats: {"successRate":0.13861386138613863,"peak":35,"average":17569.851485148516,"total":101}
+2019-10-31 18:37:23 Found 20 nodes
+2019-10-31 18:37:23 Task Finished: 130.185.202.159:6969 {"elapsed":183}
+2019-10-31 18:37:23 Queue Stats: {"successRate":0.1470588235294118,"peak":35,"average":17399.392156862745,"total":102}
+2019-10-31 18:37:23 Found 40 nodes
+2019-10-31 18:37:23 Task failed: 87.245.46.53:6969 Error: Error updating node {"elapsed":59}
+2019-10-31 18:37:23 Task failed: 95.33.154.54:6969 Error: Error updating node {"elapsed":64}
+2019-10-31 18:37:23 Task failed: 92.117.53.77:6969 Error: Error updating node {"elapsed":72}
+2019-10-31 18:37:23 Task failed: 92.117.53.145:6969 Error: Error updating node {"elapsed":76}
+2019-10-31 18:37:23 Task failed: 92.117.37.188:6969 Error: Error updating node {"elapsed":74}
+2019-10-31 18:37:23 Task failed: 92.117.47.190:6969 Error: Error updating node {"elapsed":78}
+2019-10-31 18:37:23 Task failed: 92.117.50.158:6969 Error: Error updating node {"elapsed":80}
+2019-10-31 18:37:23 Task failed: 92.117.48.75:6969 Error: Error updating node {"elapsed":81}
+2019-10-31 18:37:23 Task failed: 46.0.205.147:6969 Error: Error updating node {"elapsed":99}
+2019-10-31 18:37:23 Task failed: 92.117.50.184:6969 Error: Error updating node {"elapsed":102}
+2019-10-31 18:37:24 Task failed: 92.117.32.120:6969 Error: Error updating node {"elapsed":1078}
