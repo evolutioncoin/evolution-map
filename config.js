@@ -10,7 +10,7 @@ config.serverPort = 8081;
 
 config.networkNodeTimeout = 45;
 
-config.statsUpdateInterval = 35;
+config.statsUpdateInterval = 30;
 
 config.nodeTTL = 29600;
 
